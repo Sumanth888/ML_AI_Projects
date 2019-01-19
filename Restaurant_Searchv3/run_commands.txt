@@ -1,0 +1,3 @@
+python -m rasa_core.run -d models/dialogue -u models/nlu/default --debug
+
+python -m rasa_core.run -d models/dialogue -u models/nlu/default

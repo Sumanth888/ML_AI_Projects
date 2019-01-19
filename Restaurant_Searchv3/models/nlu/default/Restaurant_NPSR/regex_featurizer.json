@@ -1,0 +1,14 @@
+[
+    {
+        "name": "emailid",
+        "pattern": "[a-zA-z0-9]+(@){1}[a-zA-z0-9]+.com"
+    },
+    {
+        "name": "greet",
+        "pattern": "hey[^\\s]*"
+    },
+    {
+        "name": "zipcode",
+        "pattern": "[0-9]{5}"
+    }
+]

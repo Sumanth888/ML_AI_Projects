@@ -1,0 +1,789 @@
+C:\Users\Naresh\Anaconda3\lib\site-packages\h5py\__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+
+C:\Users\Naresh\Anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Encountered an exception while running action 'action_set_slotLoc'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+'NoneType' object has no attribute 'lower'
+Traceback (most recent call last):
+  File "c:\users\naresh\rasa-installation\rasa_core-master\rasa_core\processor.py", line 311, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Upgrad Projects\NLP-ChatBot\ChatBot Assignment\Restaurant_Search v 3\actionsUtter.py", line 52, in run
+    if your_slot_value.lower() not in city_list:
+AttributeError: 'NoneType' object has no attribute 'lower'
+Encountered an exception while running action 'action_set_slotLoc'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+'NoneType' object has no attribute 'lower'
+Traceback (most recent call last):
+  File "c:\users\naresh\rasa-installation\rasa_core-master\rasa_core\processor.py", line 311, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Upgrad Projects\NLP-ChatBot\ChatBot Assignment\Restaurant_Search v 3\actionsUtter.py", line 52, in run
+    if your_slot_value.lower() not in city_list:
+AttributeError: 'NoneType' object has no attribute 'lower'
+C:\Users\Naresh\Anaconda3\lib\site-packages\h5py\__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+
+C:\Users\Naresh\Anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Failed to parse intent end entities from ''. 
+Failed to parse intent end entities from ''. 
+Failed to parse intent end entities from ''. 
+Failed to parse intent end entities from ''. 
+Failed to parse intent end entities from ''. 
+Failed to parse intent end entities from ''. 
+Failed to parse intent end entities from ''. 
+Failed to parse intent end entities from ''. 
+Failed to parse intent end entities from ''. 
+Failed to parse intent end entities from ''. 
+Failed to parse intent end entities from ''. 
+C:\Users\Naresh\Anaconda3\lib\site-packages\h5py\__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+
+C:\Users\Naresh\Anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Failed to parse intent end entities from ''. 
+Failed to parse intent end entities from ''. 
+Failed to parse intent end entities from ''. 
+C:\Users\Naresh\Anaconda3\lib\site-packages\h5py\__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+
+C:\Users\Naresh\Anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Encountered an exception while running action 'action_set_slotLoc'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+'NoneType' object has no attribute 'lower'
+Traceback (most recent call last):
+  File "c:\users\naresh\rasa-installation\rasa_core-master\rasa_core\processor.py", line 311, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Upgrad Projects\NLP-ChatBot\ChatBot Assignment\Restaurant_Search v 3\actionsUtter.py", line 52, in run
+    if your_slot_value.lower() not in city_list:
+AttributeError: 'NoneType' object has no attribute 'lower'
+C:\Users\Naresh\Anaconda3\lib\site-packages\h5py\__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+
+C:\Users\Naresh\Anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Failed to parse intent end entities from ''. 
+Encountered an exception while running action 'action_set_slotLoc'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+'NoneType' object has no attribute 'lower'
+Traceback (most recent call last):
+  File "c:\users\naresh\rasa-installation\rasa_core-master\rasa_core\processor.py", line 311, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Upgrad Projects\NLP-ChatBot\ChatBot Assignment\Restaurant_Search v 3\actionsUtter.py", line 52, in run
+    if your_slot_value.lower() not in city_list:
+AttributeError: 'NoneType' object has no attribute 'lower'
+Rasa process starting
+C:\Users\Naresh\Anaconda3\lib\site-packages\h5py\__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+
+C:\Users\Naresh\Anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Finished loading agent, starting input channel & server.
+Creating a new tracker for id 'default'.
+Received user message 'Hi' with intent '{'name': 'Hi', 'confidence': 1.0}' and entities '[]'
+Logged UserUtterance - tracker now has 2 events
+Current slot values: 
+	budget: None
+	cuisine: None
+	emailid: None
+	location: None
+	requested_slot: None
+Current tracker state [None, None, None, {}, {'prev_action_listen': 1.0, 'intent_Hi': 1.0}]
+There is no memorised next action
+Feature 'intent_Hi' (value: '1.0') could not be found in feature map. Make sure you added all intents and entities to the domain
+Predicted next action using policy_1_KerasPolicy
+Predicted next action 'action_listen' with prob 0.90.
+Action 'action_listen' ended with events '[]'
+Rasa process starting
+C:\Users\Naresh\Anaconda3\lib\site-packages\h5py\__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+
+C:\Users\Naresh\Anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Finished loading agent, starting input channel & server.
+Creating a new tracker for id 'default'.
+Received user message 'Helloi' with intent '{'name': 'Helloi', 'confidence': 1.0}' and entities '[]'
+Logged UserUtterance - tracker now has 2 events
+Current slot values: 
+	budget: None
+	cuisine: None
+	emailid: None
+	location: None
+	requested_slot: None
+Current tracker state [None, None, None, {}, {'intent_Helloi': 1.0, 'prev_action_listen': 1.0}]
+There is no memorised next action
+Feature 'intent_Helloi' (value: '1.0') could not be found in feature map. Make sure you added all intents and entities to the domain
+Predicted next action using policy_1_KerasPolicy
+Predicted next action 'action_listen' with prob 0.90.
+Action 'action_listen' ended with events '[]'
+Recreating tracker for id 'default'
+Failed to parse intent end entities from ''. 
+Received user message '' with intent '{'name': None, 'confidence': 1.0}' and entities '[]'
+Logged UserUtterance - tracker now has 4 events
+Current slot values: 
+	budget: None
+	cuisine: None
+	emailid: None
+	location: None
+	requested_slot: None
+Current tracker state [None, None, {}, {'intent_Helloi': 1.0, 'prev_action_listen': 1.0}, {'prev_action_listen': 1.0}]
+There is no memorised next action
+Feature 'intent_Helloi' (value: '1.0') could not be found in feature map. Make sure you added all intents and entities to the domain
+Predicted next action using policy_1_KerasPolicy
+Predicted next action 'utter_ask_location' with prob 0.85.
+Action 'utter_ask_location' ended with events '[]'
+Bot utterance 'BotUttered(text: In what location?, data: null)'
+Current tracker state [None, {}, {'intent_Helloi': 1.0, 'prev_action_listen': 1.0}, {'prev_action_listen': 1.0}, {'prev_utter_ask_location': 1.0}]
+There is no memorised next action
+Feature 'intent_Helloi' (value: '1.0') could not be found in feature map. Make sure you added all intents and entities to the domain
+Predicted next action using policy_1_KerasPolicy
+Predicted next action 'action_listen' with prob 1.00.
+Action 'action_listen' ended with events '[]'
+Recreating tracker for id 'default'
+Failed to parse intent end entities from ''. 
+Received user message '' with intent '{'name': None, 'confidence': 1.0}' and entities '[]'
+Logged UserUtterance - tracker now has 8 events
+Current slot values: 
+	budget: None
+	cuisine: None
+	emailid: None
+	location: None
+	requested_slot: None
+Current tracker state [{}, {'intent_Helloi': 1.0, 'prev_action_listen': 1.0}, {'prev_action_listen': 1.0}, {'prev_utter_ask_location': 1.0}, {'prev_action_listen': 1.0}]
+There is no memorised next action
+Feature 'intent_Helloi' (value: '1.0') could not be found in feature map. Make sure you added all intents and entities to the domain
+Predicted next action using policy_1_KerasPolicy
+Predicted next action 'action_set_slotLoc' with prob 0.75.
+Encountered an exception while running action 'action_set_slotLoc'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+'NoneType' object has no attribute 'lower'
+Traceback (most recent call last):
+  File "c:\users\naresh\rasa-installation\rasa_core-master\rasa_core\processor.py", line 311, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Upgrad Projects\NLP-ChatBot\ChatBot Assignment\Restaurant_Search v 3\actionsUtter.py", line 52, in run
+    if your_slot_value.lower() not in city_list:
+AttributeError: 'NoneType' object has no attribute 'lower'
+Action 'action_set_slotLoc' ended with events '[]'
+Current tracker state [{'intent_Helloi': 1.0, 'prev_action_listen': 1.0}, {'prev_action_listen': 1.0}, {'prev_utter_ask_location': 1.0}, {'prev_action_listen': 1.0}, {'prev_action_set_slotLoc': 1.0}]
+There is no memorised next action
+Feature 'intent_Helloi' (value: '1.0') could not be found in feature map. Make sure you added all intents and entities to the domain
+Predicted next action using policy_1_KerasPolicy
+Predicted next action 'utter_ask_cuisine' with prob 1.00.
+Action 'utter_ask_cuisine' ended with events '[]'
+Bot utterance 'BotUttered(text: what kind of cuisine would you like?, data: {
+  "buttons": [
+    {
+      "payload": "Chinese",
+      "title": "Chinese"
+    },
+    {
+      "payload": "Mexican",
+      "title": "Mexican"
+    },
+    {
+      "payload": "Italian",
+      "title": "Italian"
+    },
+    {
+      "payload": "American",
+      "title": "American"
+    },
+    {
+      "payload": "South Indian",
+      "title": "South Indian"
+    },
+    {
+      "payload": "North Indian",
+      "title": "North Indian"
+    }
+  ]
+})'
+Current tracker state [{'prev_action_listen': 1.0}, {'prev_utter_ask_location': 1.0}, {'prev_action_listen': 1.0}, {'prev_action_set_slotLoc': 1.0}, {'prev_utter_ask_cuisine': 1.0}]
+There is no memorised next action
+Predicted next action using policy_1_KerasPolicy
+Predicted next action 'action_listen' with prob 1.00.
+Action 'action_listen' ended with events '[]'
+Recreating tracker for id 'default'
+Failed to parse intent end entities from ''. 
+Received user message '' with intent '{'name': None, 'confidence': 1.0}' and entities '[]'
+Logged UserUtterance - tracker now has 13 events
+Current slot values: 
+	budget: None
+	cuisine: None
+	emailid: None
+	location: None
+	requested_slot: None
+Current tracker state [{'prev_utter_ask_location': 1.0}, {'prev_action_listen': 1.0}, {'prev_action_set_slotLoc': 1.0}, {'prev_utter_ask_cuisine': 1.0}, {'prev_action_listen': 1.0}]
+There is no memorised next action
+Predicted next action using policy_1_KerasPolicy
+Predicted next action 'action_set_slotCuis' with prob 1.00.
+Encountered an exception while running action 'action_set_slotCuis'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+'NoneType' object has no attribute 'lower'
+Traceback (most recent call last):
+  File "c:\users\naresh\rasa-installation\rasa_core-master\rasa_core\processor.py", line 311, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Upgrad Projects\NLP-ChatBot\ChatBot Assignment\Restaurant_Search v 3\actionsUtter.py", line 67, in run
+    if your_slot_value.lower() not in cuisine_list:
+AttributeError: 'NoneType' object has no attribute 'lower'
+Action 'action_set_slotCuis' ended with events '[]'
+Current tracker state [{'prev_action_listen': 1.0}, {'prev_action_set_slotLoc': 1.0}, {'prev_utter_ask_cuisine': 1.0}, {'prev_action_listen': 1.0}, {'prev_action_set_slotCuis': 1.0}]
+There is no memorised next action
+Predicted next action using policy_1_KerasPolicy
+Predicted next action 'utter_ask_budget' with prob 1.00.
+Action 'utter_ask_budget' ended with events '[]'
+Bot utterance 'BotUttered(text: Whats the average budget for two people?, data: {
+  "buttons": [
+    {
+      "payload": "Lesser than Rs. 300",
+      "title": "Lesser than Rs. 300"
+    },
+    {
+      "payload": "Rs. 300 to 700",
+      "title": "Rs. 300 to 700"
+    },
+    {
+      "payload": "More than 700",
+      "title": "More than 700"
+    }
+  ]
+})'
+Current tracker state [{'prev_action_set_slotLoc': 1.0}, {'prev_utter_ask_cuisine': 1.0}, {'prev_action_listen': 1.0}, {'prev_action_set_slotCuis': 1.0}, {'prev_utter_ask_budget': 1.0}]
+There is no memorised next action
+Predicted next action using policy_1_KerasPolicy
+Predicted next action 'action_listen' with prob 1.00.
+Action 'action_listen' ended with events '[]'
+Recreating tracker for id 'default'
+Failed to parse intent end entities from ''. 
+Received user message '' with intent '{'name': None, 'confidence': 1.0}' and entities '[]'
+Logged UserUtterance - tracker now has 18 events
+Current slot values: 
+	budget: None
+	cuisine: None
+	emailid: None
+	location: None
+	requested_slot: None
+Current tracker state [{'prev_utter_ask_cuisine': 1.0}, {'prev_action_listen': 1.0}, {'prev_action_set_slotCuis': 1.0}, {'prev_utter_ask_budget': 1.0}, {'prev_action_listen': 1.0}]
+There is no memorised next action
+Predicted next action using policy_1_KerasPolicy
+Predicted next action 'action_set_slotBud' with prob 1.00.
+Action 'action_set_slotBud' ended with events '[]'
+Bot utterance 'BotUttered(text: Invalid value for budget list, data: null)'
+Current tracker state [{'prev_action_listen': 1.0}, {'prev_action_set_slotCuis': 1.0}, {'prev_utter_ask_budget': 1.0}, {'prev_action_listen': 1.0}, {'prev_action_set_slotBud': 1.0}]
+There is no memorised next action
+Predicted next action using policy_1_KerasPolicy
+Predicted next action 'action_restaurant' with prob 1.00.
+Action 'action_restaurant' ended with events '[]'
+Bot utterance 'BotUttered(text: ----- Onesta in Central Cinemas, Laxmindra Nagar, Udupi Main Road, Vidyaratna Nagar, Manipal has been rated 4.9.
+ Boa-Bao in Rua da Picaria, 61-65, Baixa, Porto has been rated 4.9.
+ Flechazo in 165, Third Floor, Vantagio, Near Silver Sports Club, Wakad, Pune has been rated 4.9.
+ Cut By Wolfgang Puck in 2 Bayfront Avenue, B1-71 Marina Bay Sands 018972 has been rated 4.9.
+, data: null)'
+Current tracker state [{'prev_action_set_slotCuis': 1.0}, {'prev_utter_ask_budget': 1.0}, {'prev_action_listen': 1.0}, {'prev_action_set_slotBud': 1.0}, {'prev_action_restaurant': 1.0}]
+There is no memorised next action
+Predicted next action using policy_1_KerasPolicy
+Predicted next action 'utter_email' with prob 1.00.
+Action 'utter_email' ended with events '[]'
+Bot utterance 'BotUttered(text: Do you want details of Top 10 restaurants on email?, data: null)'
+Current tracker state [{'prev_utter_ask_budget': 1.0}, {'prev_action_listen': 1.0}, {'prev_action_set_slotBud': 1.0}, {'prev_action_restaurant': 1.0}, {'prev_utter_email': 1.0}]
+There is no memorised next action
+Predicted next action using policy_1_KerasPolicy
+Predicted next action 'action_listen' with prob 1.00.
+Action 'action_listen' ended with events '[]'
+Recreating tracker for id 'default'
+Failed to parse intent end entities from ''. 
+Received user message '' with intent '{'name': None, 'confidence': 1.0}' and entities '[]'
+Logged UserUtterance - tracker now has 26 events
+Current slot values: 
+	budget: None
+	cuisine: None
+	emailid: None
+	location: None
+	requested_slot: None
+Current tracker state [{'prev_action_listen': 1.0}, {'prev_action_set_slotBud': 1.0}, {'prev_action_restaurant': 1.0}, {'prev_utter_email': 1.0}, {'prev_action_listen': 1.0}]
+There is no memorised next action
+Predicted next action using policy_1_KerasPolicy
+Predicted next action 'utter_ask_emailid' with prob 0.77.
+Action 'utter_ask_emailid' ended with events '[]'
+Bot utterance 'BotUttered(text: Please give your mail id ?, data: null)'
+Current tracker state [{'prev_action_set_slotBud': 1.0}, {'prev_action_restaurant': 1.0}, {'prev_utter_email': 1.0}, {'prev_action_listen': 1.0}, {'prev_utter_ask_emailid': 1.0}]
+There is no memorised next action
+Predicted next action using policy_1_KerasPolicy
+Predicted next action 'action_set_slotEml' with prob 0.99.
+Encountered an exception while running action 'action_set_slotEml'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+expected string or bytes-like object
+Traceback (most recent call last):
+  File "c:\users\naresh\rasa-installation\rasa_core-master\rasa_core\processor.py", line 311, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Upgrad Projects\NLP-ChatBot\ChatBot Assignment\Restaurant_Search v 3\actionsUtter.py", line 99, in run
+    if not re.match(pattern, your_slot_value):
+  File "C:\Users\Naresh\Anaconda3\lib\re.py", line 172, in match
+    return _compile(pattern, flags).match(string)
+TypeError: expected string or bytes-like object
+Action 'action_set_slotEml' ended with events '[]'
+Current tracker state [{'prev_action_restaurant': 1.0}, {'prev_utter_email': 1.0}, {'prev_action_listen': 1.0}, {'prev_utter_ask_emailid': 1.0}, {'prev_action_set_slotEml': 1.0}]
+There is no memorised next action
+Predicted next action using policy_1_KerasPolicy
+Predicted next action 'action_restaurant_eml' with prob 1.00.
+Encountered an exception while running action 'action_restaurant_eml'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+must be str, not NoneType
+Traceback (most recent call last):
+  File "c:\users\naresh\rasa-installation\rasa_core-master\rasa_core\processor.py", line 311, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Upgrad Projects\NLP-ChatBot\ChatBot Assignment\Restaurant_Search v 3\actionsEmail.py", line 76, in run
+    dispatcher.utter_message("Mail Sent to "+email+"!!!")
+TypeError: must be str, not NoneType
+Action 'action_restaurant_eml' ended with events '[]'
+Current tracker state [{'prev_utter_email': 1.0}, {'prev_action_listen': 1.0}, {'prev_utter_ask_emailid': 1.0}, {'prev_action_set_slotEml': 1.0}, {'prev_action_restaurant_eml': 1.0}]
+There is no memorised next action
+Predicted next action using policy_1_KerasPolicy
+Predicted next action 'utter_send_email' with prob 1.00.
+Action 'utter_send_email' ended with events '[]'
+Bot utterance 'BotUttered(text: Email sent!!, data: null)'
+Current tracker state [{'prev_action_listen': 1.0}, {'prev_utter_ask_emailid': 1.0}, {'prev_action_set_slotEml': 1.0}, {'prev_action_restaurant_eml': 1.0}, {'prev_utter_send_email': 1.0}]
+There is no memorised next action
+Predicted next action using policy_1_KerasPolicy
+Predicted next action 'utter_goodbye' with prob 1.00.
+Rasa process starting
+C:\Users\Naresh\Anaconda3\lib\site-packages\h5py\__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+
+C:\Users\Naresh\Anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Finished loading agent, starting input channel & server.
+Creating a new tracker for id 'default'.
+Received user message 'show restaurants' with intent '{'name': 'show restaurants', 'confidence': 1.0}' and entities '[]'
+Logged UserUtterance - tracker now has 2 events
+Current slot values: 
+	budget: None
+	cuisine: None
+	emailid: None
+	location: None
+	requested_slot: None
+Current tracker state [None, None, None, {}, {'intent_show restaurants': 1.0, 'prev_action_listen': 1.0}]
+There is no memorised next action
+Feature 'intent_show restaurants' (value: '1.0') could not be found in feature map. Make sure you added all intents and entities to the domain
+Predicted next action using policy_1_KerasPolicy
+Predicted next action 'action_listen' with prob 0.90.
+Action 'action_listen' ended with events '[]'
+Recreating tracker for id 'default'
+Received user message 'Hi' with intent '{'name': 'Hi', 'confidence': 1.0}' and entities '[]'
+Logged UserUtterance - tracker now has 4 events
+Current slot values: 
+	budget: None
+	cuisine: None
+	emailid: None
+	location: None
+	requested_slot: None
+Current tracker state [None, None, {}, {'intent_show restaurants': 1.0, 'prev_action_listen': 1.0}, {'intent_Hi': 1.0, 'prev_action_listen': 1.0}]
+There is no memorised next action
+Feature 'intent_show restaurants' (value: '1.0') could not be found in feature map. Make sure you added all intents and entities to the domain
+Feature 'intent_Hi' (value: '1.0') could not be found in feature map. Make sure you added all intents and entities to the domain
+Predicted next action using policy_1_KerasPolicy
+Predicted next action 'utter_ask_location' with prob 0.85.
+Action 'utter_ask_location' ended with events '[]'
+Bot utterance 'BotUttered(text: In what location?, data: null)'
+Current tracker state [None, {}, {'intent_show restaurants': 1.0, 'prev_action_listen': 1.0}, {'intent_Hi': 1.0, 'prev_action_listen': 1.0}, {'intent_Hi': 1.0, 'prev_utter_ask_location': 1.0}]
+There is no memorised next action
+Feature 'intent_show restaurants' (value: '1.0') could not be found in feature map. Make sure you added all intents and entities to the domain
+Feature 'intent_Hi' (value: '1.0') could not be found in feature map. Make sure you added all intents and entities to the domain
+Feature 'intent_Hi' (value: '1.0') could not be found in feature map. Make sure you added all intents and entities to the domain
+Predicted next action using policy_1_KerasPolicy
+Predicted next action 'action_listen' with prob 1.00.
+Action 'action_listen' ended with events '[]'
+Rasa process starting
+C:\Users\Naresh\Anaconda3\lib\site-packages\h5py\__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+
+C:\Users\Naresh\Anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Finished loading agent, starting input channel & server.
+Creating a new tracker for id 'default'.
+Received user message 'hi' with intent '{'name': 'hi', 'confidence': 1.0}' and entities '[]'
+Logged UserUtterance - tracker now has 2 events
+Current slot values: 
+	budget: None
+	cuisine: None
+	emailid: None
+	location: None
+	requested_slot: None
+Current tracker state [None, None, None, {}, {'intent_hi': 1.0, 'prev_action_listen': 1.0}]
+There is no memorised next action
+Feature 'intent_hi' (value: '1.0') could not be found in feature map. Make sure you added all intents and entities to the domain
+Predicted next action using policy_1_KerasPolicy
+Predicted next action 'utter_ask_location' with prob 0.80.
+Action 'utter_ask_location' ended with events '[]'
+Bot utterance 'BotUttered(text: In what location?, data: null)'
+Current tracker state [None, None, {}, {'intent_hi': 1.0, 'prev_action_listen': 1.0}, {'intent_hi': 1.0, 'prev_utter_ask_location': 1.0}]
+There is no memorised next action
+Feature 'intent_hi' (value: '1.0') could not be found in feature map. Make sure you added all intents and entities to the domain
+Feature 'intent_hi' (value: '1.0') could not be found in feature map. Make sure you added all intents and entities to the domain
+Predicted next action using policy_1_KerasPolicy
+Predicted next action 'action_listen' with prob 1.00.
+Action 'action_listen' ended with events '[]'
+C:\Users\Naresh\Anaconda3\lib\site-packages\h5py\__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+
+C:\Users\Naresh\Anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Failed to parse intent end entities from ''. 
+Failed to parse intent end entities from ''. 
+Failed to parse intent end entities from ''. 
+Failed to parse intent end entities from ''. 
+Failed to parse intent end entities from ''. 
+Failed to parse intent end entities from ''. 
+Failed to parse intent end entities from ''. 
+C:\Users\Naresh\Anaconda3\lib\site-packages\h5py\__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+
+C:\Users\Naresh\Anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Encountered an exception while running action 'action_set_slotLoc'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+'NoneType' object has no attribute 'lower'
+Traceback (most recent call last):
+  File "c:\users\naresh\rasa-installation\rasa_core-master\rasa_core\processor.py", line 311, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Upgrad Projects\NLP-ChatBot\ChatBot Assignment\Restaurant_Search v 3\actionsUtter.py", line 52, in run
+    if your_slot_value.lower() not in city_list:
+AttributeError: 'NoneType' object has no attribute 'lower'
+Encountered an exception while running action 'action_set_slotCuis'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+'NoneType' object has no attribute 'lower'
+Traceback (most recent call last):
+  File "c:\users\naresh\rasa-installation\rasa_core-master\rasa_core\processor.py", line 311, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Upgrad Projects\NLP-ChatBot\ChatBot Assignment\Restaurant_Search v 3\actionsUtter.py", line 67, in run
+    if your_slot_value.lower() not in cuisine_list:
+AttributeError: 'NoneType' object has no attribute 'lower'
+C:\Users\Naresh\Anaconda3\lib\site-packages\h5py\__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+
+C:\Users\Naresh\Anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+C:\Users\Naresh\Anaconda3\lib\site-packages\h5py\__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+
+C:\Users\Naresh\Anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Failed to parse intent end entities from ''. 
+C:\Users\Naresh\Anaconda3\lib\site-packages\h5py\__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+
+C:\Users\Naresh\Anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Encountered an exception while running action 'action_set_slotCuis'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+'NoneType' object has no attribute 'lower'
+Traceback (most recent call last):
+  File "c:\users\naresh\rasa-installation\rasa_core-master\rasa_core\processor.py", line 311, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Upgrad Projects\NLP-ChatBot\ChatBot Assignment\Restaurant_Search v 3\actionsUtter.py", line 67, in run
+    if (your_slot_value == '' ) or (your_slot_value.lower() not in cuisine_list):
+AttributeError: 'NoneType' object has no attribute 'lower'
+C:\Users\Naresh\Anaconda3\lib\site-packages\h5py\__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+
+C:\Users\Naresh\Anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Encountered an exception while running action 'action_set_slotCuis'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+'NoneType' object has no attribute 'lower'
+Traceback (most recent call last):
+  File "c:\users\naresh\rasa-installation\rasa_core-master\rasa_core\processor.py", line 311, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Upgrad Projects\NLP-ChatBot\ChatBot Assignment\Restaurant_Search v 3\actionsUtter.py", line 67, in run
+    if (your_slot_value == '' ) or (your_slot_value.lower() not in cuisine_list):
+AttributeError: 'NoneType' object has no attribute 'lower'
+C:\Users\Naresh\Anaconda3\lib\site-packages\h5py\__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+
+C:\Users\Naresh\Anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Encountered an exception while running action 'action_set_slotLoc'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+'NoneType' object has no attribute 'lower'
+Traceback (most recent call last):
+  File "c:\users\naresh\rasa-installation\rasa_core-master\rasa_core\processor.py", line 311, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Upgrad Projects\NLP-ChatBot\ChatBot Assignment\Restaurant_Search v 3\actionsUtter.py", line 52, in run
+    if (your_slot_value == '' ) or (your_slot_value.lower() not in city_list):
+AttributeError: 'NoneType' object has no attribute 'lower'
+C:\Users\Naresh\Anaconda3\lib\site-packages\h5py\__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+
+C:\Users\Naresh\Anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Encountered an exception while running action 'action_set_slotLoc'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+'NoneType' object has no attribute 'lower'
+Traceback (most recent call last):
+  File "c:\users\naresh\rasa-installation\rasa_core-master\rasa_core\processor.py", line 311, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Upgrad Projects\NLP-ChatBot\ChatBot Assignment\Restaurant_Search v 3\actionsUtter.py", line 52, in run
+    if (your_slot_value == '' ) or (your_slot_value.lower() not in city_list):
+AttributeError: 'NoneType' object has no attribute 'lower'
+C:\Users\Naresh\Anaconda3\lib\site-packages\h5py\__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+
+C:\Users\Naresh\Anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Encountered an exception while running action 'action_set_slotLoc'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+'NoneType' object has no attribute 'lower'
+Traceback (most recent call last):
+  File "c:\users\naresh\rasa-installation\rasa_core-master\rasa_core\processor.py", line 311, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Upgrad Projects\NLP-ChatBot\ChatBot Assignment\Restaurant_Search v 3\actionsUtter.py", line 51, in run
+    if (your_slot_value == '' ) or (your_slot_value.lower() not in city_list):
+AttributeError: 'NoneType' object has no attribute 'lower'
+C:\Users\Naresh\Anaconda3\lib\site-packages\h5py\__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+
+C:\Users\Naresh\Anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+C:\Users\Naresh\Anaconda3\lib\site-packages\h5py\__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+
+C:\Users\Naresh\Anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+Failed to parse intent end entities from ''. 
+Encountered an exception while running action 'action_set_slotEml'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+expected string or bytes-like object
+Traceback (most recent call last):
+  File "c:\users\naresh\rasa-installation\rasa_core-master\rasa_core\processor.py", line 311, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Upgrad Projects\NLP-ChatBot\ChatBot Assignment\Restaurant_Search v 3\actionsUtter.py", line 91, in run
+    if not re.match(pattern, your_slot_value):
+  File "C:\Users\Naresh\Anaconda3\lib\re.py", line 172, in match
+    return _compile(pattern, flags).match(string)
+TypeError: expected string or bytes-like object
+Encountered an exception while running action 'action_restaurant_eml'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+must be str, not NoneType
+Traceback (most recent call last):
+  File "c:\users\naresh\rasa-installation\rasa_core-master\rasa_core\processor.py", line 311, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Upgrad Projects\NLP-ChatBot\ChatBot Assignment\Restaurant_Search v 3\actionsEmail.py", line 76, in run
+    dispatcher.utter_message("Mail Sent to "+email+"!!!")
+TypeError: must be str, not NoneType
+Failed to parse intent end entities from ''. 
+Failed to parse intent end entities from ''. 
+Failed to parse intent end entities from ''. 
+Failed to parse intent end entities from ''. 
+Encountered an exception while running action 'action_set_slotEml'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+expected string or bytes-like object
+Traceback (most recent call last):
+  File "c:\users\naresh\rasa-installation\rasa_core-master\rasa_core\processor.py", line 311, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Upgrad Projects\NLP-ChatBot\ChatBot Assignment\Restaurant_Search v 3\actionsUtter.py", line 91, in run
+    if not re.match(pattern, your_slot_value):
+  File "C:\Users\Naresh\Anaconda3\lib\re.py", line 172, in match
+    return _compile(pattern, flags).match(string)
+TypeError: expected string or bytes-like object
+Encountered an exception while running action 'action_restaurant_eml'. Bot will continue, but the actions events are lost. Make sure to fix the exception in your custom code.
+must be str, not NoneType
+Traceback (most recent call last):
+  File "c:\users\naresh\rasa-installation\rasa_core-master\rasa_core\processor.py", line 311, in _run_action
+    events = action.run(dispatcher, tracker, self.domain)
+  File "C:\Upgrad Projects\NLP-ChatBot\ChatBot Assignment\Restaurant_Search v 3\actionsEmail.py", line 76, in run
+    dispatcher.utter_message("Mail Sent to "+email+"!!!")
+TypeError: must be str, not NoneType
+Failed to parse intent end entities from ''. 
+Failed to parse intent end entities from ''. 
+C:\Users\Naresh\Anaconda3\lib\site-packages\h5py\__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+
+C:\Users\Naresh\Anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+
+C:\Users\Naresh\Anaconda3\lib\site-packages\h5py\__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+
+C:\Users\Naresh\Anaconda3\lib\site-packages\pykwalify\core.py:99: UnsafeLoaderWarning: 
+The default 'Loader' for 'load(stream)' without further arguments can be unsafe.
+Use 'load(stream, Loader=ruamel.yaml.Loader)' explicitly if that is OK.
+Alternatively include the following in your code:
+
+  import warnings
+  warnings.simplefilter('ignore', ruamel.yaml.error.UnsafeLoaderWarning)
+
+In most other cases you should consider using 'safe_load(stream)'
+  data = yaml.load(stream)
+

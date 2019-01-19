@@ -1,0 +1,76 @@
+slots:
+  location:
+    type: list
+  cuisine:
+    type: text
+  budget:
+    type: categorical
+    values:
+      - Less300
+      - Bet300700
+      - Over700
+
+forms:
+    restaurant_form
+      
+entities:
+- location
+- cuisine
+- budget
+
+intents:
+ - greet
+ - affirm
+ - deny
+ - goodbye
+ - thankyou
+ - restaurant_search
+
+templates:
+  utter_greet:
+    - "hey there! How may i help you"
+    - "Hi, How can I help you!"
+    - "Hey, How is it going. How May I help you Today"
+  utter_goodbye:
+    - "goodbye :("
+    - "Bye-bye"
+  utter_default:
+    - "default message"
+  utter_ask_cuisine: 
+    - text: "what kind of cuisine would you like?"
+      buttons:
+      - title: "Chinese"
+        payload: '/choose{"cuisine": "Chinese"}'
+      - title: "Italian"
+        payload: '/choose{"cuisine": "Italian"}'
+      - title: "South Indian"
+        payload: '/choose{"cuisine": "South Indian"}'
+      - title: "North Indian"
+        payload: '/choose{"cuisine": "North Indian"}'
+  utter_ask_howcanhelp:
+    - "how can I help you?"
+  utter_ask_location:
+    - "In what location?"
+    
+  utter_ask_budget:
+    - text: "Whats the average budget for two people?"
+      buttons:
+      - title: "Lesser than Rs. 300"
+        payload: '/choose{"budget": "Less300"}'
+      - title: "Rs. 300 to 700"
+        payload: '/choose{"budget": "Betw300"}'
+      - title: "More than 700"
+        payload: '/choose{"budget": "More700"}'
+  send_email:
+    -text: "Do you want a mail confirmation?"
+    
+actions:
+- utter_greet
+- utter_goodbye
+- utter_default
+- utter_ask_howcanhelp
+- utter_ask_location
+- utter_ask_cuisine
+- utter_ask_budget
+- send_email
+- actions.ActionSearchRestaurants
